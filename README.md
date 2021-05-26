@@ -3,7 +3,6 @@
 ### <ins>Sobre o projeto</ins>:
 
  Mostra a data, horario,temperatura e clima atual do Rio de Janeiro
- (usando uma API)
 </br>
 
 ### <ins>Tecnologias usadas</ins>:
