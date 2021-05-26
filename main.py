@@ -18,7 +18,7 @@ def dadosreq(rq):
     lista.append(rq["results"]["description"])
     lista.append(rq["results"]["city"])
     mostrarterminal()
-    return lista
+    
 
 
 def mostrarterminal():
